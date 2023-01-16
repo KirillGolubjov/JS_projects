@@ -1,4 +1,4 @@
-7808
+7809
 98C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\features\string\virtual\at.js133181671781133669 0
 60C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules133181771286119770 1
 101C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\full\function\virtual\un-this.js133181671825499138 0
@@ -34,7 +34,7 @@
 99C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\full\array\virtual\includes.js133181671799504491 0
 95C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\modules\web.url.to-json.js133181671827116327 0
 70C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\is-number133181568530832210 1
-52C:\Users\estoty\Desktop\JS_projects\forkify-app\dist133183265689996696 1
+52C:\Users\estoty\Desktop\JS_projects\forkify-app\dist133183357425827141 1
 102C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\internals\object-is-extensible.js133181671810583955 0
 92C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\caniuse-lite\data\regions\KN.js133181568537480084 0
 99C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\actual\object\define-setter.js133181671784802339 0
@@ -68,7 +68,7 @@
 115C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\internals\typed-array-from-species-and-list.js133181671825154291 0
 110C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\es\object\get-own-property-descriptors.js133181671798284512 0
 103C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\features\async-iterator\indexed.js133181671803308658 0
-58C:\Users\estoty\Desktop\JS_projects\forkify-app\index.html133182576443796684 0
+58C:\Users\estoty\Desktop\JS_projects\forkify-app\index.html133183352838101665 0
 99C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\stable\array\virtual\values.js133181671826758360 0
 99C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\full\typed-array\find-index.js133181671794266347 0
 109C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\htmlnano\lib\modules\normalizeAttributeValues.js133181568533029758 0
@@ -176,14 +176,14 @@
 140C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web\parcel_sourcemap_wasm_bg.wasm133181568534999512 0
 64C:\Users\estoty\Desktop\JS_projects\forkify-app\src\js\config.js133183264217523258 0
 94C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\htmlparser2\lib\WritableStream.js133181568531561857 0
-68C:\Users\estoty\Desktop\JS_projects\forkify-app\src\js\controller.js133183264760835541 0
+68C:\Users\estoty\Desktop\JS_projects\forkify-app\src\js\controller.js133183348461806686 0
 66C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\chalk133181568531612075 1
 118C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest6.c133181568534819357 0
 115C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\@parcel\runtime-browser-hmr\src\loaders\hmr-runtime.js133181568531097544 0
 98C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\electron-to-chromium\full-versions.js133181568531271592 0
 98C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\modules\es.string.includes.js133181671788713351 0
-63C:\Users\estoty\Desktop\JS_projects\forkify-app\src\js\model.js133183265689726429 0
-60C:\Users\estoty\Desktop\JS_projects\forkify-app\src\js\views133182560824636695 1
+63C:\Users\estoty\Desktop\JS_projects\forkify-app\src\js\model.js133183286845650828 0
+60C:\Users\estoty\Desktop\JS_projects\forkify-app\src\js\views133183275838128251 1
 89C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\full\set-interval.js133181671814585931 0
 94C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\full\iterator\flat-map.js133181671796112196 0
 90C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\css-tree\lib\syntax\create.js133181568533252517 0
@@ -192,6 +192,20 @@
 92C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\utility-types\dist\index.js.map133181568531999175 0
 97C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\modules\es.array.for-each.js133181671786971185 0
 98C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\internals\reflect-metadata.js133181671813169509 0
+101C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\modules\es.typed-array.filter.js133181671789725236 0
+101C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\@swc\helpers\lib\_array_without_holes.js133181568531221538 0
+80C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\regenerator-runtime133181568531177617 1
+93C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\features\bigint\range.js133181671812838229 0
+81C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\import-fresh\license133181568529489180 0
+74C:\Users\estoty\Desktop\JS_projects\forkify-app\src\js\views\searchView.js133182555916918283 0
+99C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\features\array\virtual\with.js133181671827176381 0
+87C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\css-tree\lib\syntax\atrule133181568535236782 1
+73C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\@parcel\hash133181568534348917 1
+67C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\terser133181568534549101 1
+78C:\Users\estoty\Desktop\JS_projects\forkify-app\src\js\views\paginationView.js133183357433224552 0
+101C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\full\reflect\set-prototype-of.js133181671814825616 0
+83C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\es\typed-array133181671826689460 1
+75C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\dom-serializer133181568532219385 1
 108C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\lmdb.h133181568535176737 0
 81C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\nullthrows\README.md133181568531371668 0
 81C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\stable\stable.min.js133181568531157597 0
@@ -208,14 +222,6 @@
 90C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\csso\lib\restructure\utils.js133181568534101788 0
 72C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\xxhash-wasm133181568532089270 1
 75C:\Users\estoty\Desktop\JS_projects\forkify-app\src\js\views\resultsView.js133182585148399157 0
-101C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\modules\es.typed-array.filter.js133181671789725236 0
-101C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\@swc\helpers\lib\_array_without_holes.js133181568531221538 0
-80C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\regenerator-runtime133181568531177617 1
-93C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\features\bigint\range.js133181671812838229 0
-81C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\import-fresh\license133181568529489180 0
-74C:\Users\estoty\Desktop\JS_projects\forkify-app\src\js\views\searchView.js133182555916918283 0
-99C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\features\array\virtual\with.js133181671827176381 0
-87C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\css-tree\lib\syntax\atrule133181568535236782 1
 93C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\svgo\plugins\removeEmptyAttrs.js133181568534091770 0
 116C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.h133181568535236782 0
 108C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\abortcontroller-polyfill\src\abortcontroller.js133181568531561857 0
@@ -408,11 +414,6 @@
 96C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\type-fest\source\readonly-deep.d.ts133181568533382601 0
 86C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\type-fest\ts41\index.d.ts133181568532723366 0
 72C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\detect-libc133181568531361671 1
-73C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\@parcel\hash133181568534348917 1
-67C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\terser133181568534549101 1
-101C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\full\reflect\set-prototype-of.js133181671814825616 0
-83C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\es\typed-array133181671826689460 1
-75C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\dom-serializer133181568532219385 1
 105C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\@parcel\workers\lib\process\ProcessWorker.js133181568533262499 0
 92C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\stable\regexp\search.js133181671814235620 0
 99C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\internals\engine-is-browser.js133181671786393131 0
@@ -661,9 +662,6 @@
 87C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\node-addon-api\except.gypi133181568530867470 0
 85C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\htmlparser2\lib\index.js133181568530732126 0
 85C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\terser\tools\terser.d.ts133181568534609156 0
-108C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\@jridgewell\gen-mapping\dist\gen-mapping.umd.js133181568530429342 0
-98C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\features\iterator\for-each.js133181671796890515 0
-94C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\stable\instance\concat.js133181671783223866 0
 88C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\stable\url\index.js133181671803148515 0
 70C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\path-type133181568531117568 1
 97C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\@parcel\core\src\loadParcelPlugin.js133181568534879415 0
@@ -1190,7 +1188,7 @@
 97C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\features\number\is-finite.js133181671804312024 0
 102C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\features\async-iterator\reduce.js133181671813059385 0
 93C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\internals\descriptors.js133181671785219383 0
-71C:\Users\estoty\Desktop\JS_projects\forkify-app\dist\index.f7626f62.css133183264199415419 0
+71C:\Users\estoty\Desktop\JS_projects\forkify-app\dist\index.f7626f62.css133183304657636526 0
 105C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\utility-types\dist\functional-helpers.js.map133181568531879073 0
 96C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\@parcel\transformer-postcss\LICENSE133181568529529219 0
 80C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\immutable\README.md133181573724218783 0
@@ -1729,7 +1727,7 @@
 107C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\@parcel\fs-search\fs-search.linux-x64-gnu.node133181568533731454 0
 90C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\full\instance\fill.js133181671793216296 0
 93C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\css-tree\lib\syntax\node\Rule.js133181568535109614 0
-73C:\Users\estoty\Desktop\JS_projects\forkify-app\dist\favicon.8b2f57bf.png133183264199295317 0
+73C:\Users\estoty\Desktop\JS_projects\forkify-app\dist\favicon.8b2f57bf.png133183304657616514 0
 86C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\@lezer\lr\dist\stack.d.ts133181568532159322 0
 128C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\@parcel\core\test\fixtures\targets-default-distdir-two\package.json133181568535914710 0
 86C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\supports-color\browser.js133181568529729389 0
@@ -1901,9 +1899,9 @@
 84C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\react-refresh\README.md133181568532079262 0
 105C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\features\typed-array\uint16-array.js133181671825184316 0
 85C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\react-refresh\runtime.js133181568531722210 0
-98C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\lightningcss-win32-x64-msvc\README.md133181568529739412 0
 88C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\@parcel\package-manager\src133181568533651374 1
 113C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\react-refresh\cjs\react-refresh-babel.development.js133181568530802184 0
+98C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\lightningcss-win32-x64-msvc\README.md133181568529739412 0
 113C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\@jridgewell\sourcemap-codec\dist\sourcemap-codec.mjs133181568531671950 0
 96C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\css-tree\lib\syntax\config\lexer.js133181568534749293 0
 140C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser\browser.js133181568532643305 0
@@ -3122,7 +3120,7 @@
 94C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\features\function\name.js133181671810409558 0
 92C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\domutils\lib\traversal.d.ts.map133181568532693352 0
 93C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\stable\string\pad-end.js133181671811299060 0
-63C:\Users\estoty\Desktop\JS_projects\forkify-app\dist\index.html133183264199285302 0
+63C:\Users\estoty\Desktop\JS_projects\forkify-app\dist\index.html133183304657666560 0
 96C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\full\async-iterator\drop.js133181671786127895 0
 86C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\domutils\lib\traversal.js133181568531939120 0
 75C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\domhandler\lib133181568531909093 1
@@ -3838,6 +3836,9 @@
 100C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\full\async-iterator\for-each.js133181671796910534 0
 92C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\stable\instance\bind.js133181671782535882 0
 101C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\stable\instance\code-point-at.js133181671782869760 0
+108C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\@jridgewell\gen-mapping\dist\gen-mapping.umd.js133181568530429342 0
+98C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\features\iterator\for-each.js133181671796890515 0
+94C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\stable\instance\concat.js133181671783223866 0
 99C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\stable\instance\copy-within.js133181671784508493 0
 95C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\stable\instance\entries.js133181671786583312 0
 100C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\full\string\virtual\fontsize.js133181671796522573 0
@@ -5261,7 +5262,6 @@
 100C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\full\array\virtual\to-sorted.js133181671822557674 0
 98C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\full\array\virtual\unshift.js133181671826173860 0
 96C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\features\aggregate-error.js133181671778825756 0
-96C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\features\error\to-string.js133181671823526318 0
 100C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\features\async-disposable-stack133181671800632790 1
 92C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\features\math\fround.js133181671797799719 0
 85C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\features\atob.js133181671781712367 0
@@ -5520,6 +5520,7 @@
 102C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\features\function\virtual\bind.js133181671782260863 0
 98C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\features\error\constructor.js133181671783904091 0
 92C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\features\error\index.js133181671801086221 0
+96C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\features\error\to-string.js133181671823526318 0
 97C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\caniuse-lite\dist\unpacker\agents.js133181568532399544 0
 106C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\features\dom-exception\constructor.js133181671783898990 0
 108C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\core-js\features\dom-exception\to-string-tag.js133181671822891265 0
@@ -6788,7 +6789,7 @@
 106C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\caniuse-lite\data\features\intrinsic-width.js133181568537298493 0
 97C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\caniuse-lite\data\features\jpegxl.js133181568537357630 0
 111C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\caniuse-lite\data\features\js-regexp-lookbehind.js133181568537377649 0
-70C:\Users\estoty\Desktop\JS_projects\forkify-app\dist\index.e37f48ea.js133183265689966676 0
+70C:\Users\estoty\Desktop\JS_projects\forkify-app\dist\index.e37f48ea.js133183357425807124 0
 109C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\caniuse-lite\data\features\keyboardevent-code.js133181568537417685 0
 110C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\caniuse-lite\data\features\keyboardevent-which.js133181568537444997 0
 104C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\caniuse-lite\data\features\link-icon-svg.js133181568537570209 0
@@ -7801,9 +7802,9 @@
 74C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\.bin\svgo.cmd133181568540314487 0
 76C:\Users\estoty\Desktop\JS_projects\forkify-app\node_modules\.bin\terser.cmd133181568540304483 0
 76C:\Users\estoty\Desktop\JS_projects\forkify-app\dist\forkify-app.3464ddca.js133181577683443893 0
-71C:\Users\estoty\Desktop\JS_projects\forkify-app\dist\icons.21bad73c.svg133183264200231563 0
-71C:\Users\estoty\Desktop\JS_projects\forkify-app\dist\icons.dfd7a6db.svg133183264200071145 0
+71C:\Users\estoty\Desktop\JS_projects\forkify-app\dist\icons.21bad73c.svg133183304657616514 0
+71C:\Users\estoty\Desktop\JS_projects\forkify-app\dist\icons.dfd7a6db.svg133183304657666560 0
 74C:\Users\estoty\Desktop\JS_projects\forkify-app\dist\index.62406edb.js.map133181577683383826 0
-74C:\Users\estoty\Desktop\JS_projects\forkify-app\dist\index.e37f48ea.js.map133183265689996696 0
-75C:\Users\estoty\Desktop\JS_projects\forkify-app\dist\index.f7626f62.css.map133183264199435438 0
-70C:\Users\estoty\Desktop\JS_projects\forkify-app\dist\logo.726d37a8.png133183264199275294 0
+74C:\Users\estoty\Desktop\JS_projects\forkify-app\dist\index.e37f48ea.js.map133183357425827141 0
+75C:\Users\estoty\Desktop\JS_projects\forkify-app\dist\index.f7626f62.css.map133183304657676568 0
+70C:\Users\estoty\Desktop\JS_projects\forkify-app\dist\logo.726d37a8.png133183304657656552 0

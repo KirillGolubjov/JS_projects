@@ -54,8 +54,6 @@ export const loadSearchResults = async function (query) {
   }
 };
 
-loadSearchResults('pizza');
-
 export const getSearchResultsPage = function (page = state.search.page) {
   state.search.page = page;
 
