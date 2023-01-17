@@ -1,5 +1,4 @@
 import View from './View.js';
-import icons from 'url:../../img/icons.svg';
 
 class ResultsView extends View {
   _parentElement = document.querySelector('.results');
@@ -13,7 +12,6 @@ class ResultsView extends View {
 
   _generateMarkupPreview(result) {
     const id = window.location.hash.slice(1);
-
     return `
           <li class="preview">
             <a class="preview__link" ${

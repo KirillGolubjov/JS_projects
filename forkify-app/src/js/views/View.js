@@ -20,7 +20,6 @@ export default class View {
     const newDOM = document.createRange().createContextualFragment(newMarkup);
     const newElements = Array.from(newDOM.querySelectorAll('*'));
     const curElements = Array.from(this._parentElement.querySelectorAll('*'));
-
     newElements.forEach((newEl, i) => {
       const curEl = curElements[i];
       // console.log(curEl, newEl.isEqualNode(curEl));
@@ -43,17 +42,17 @@ export default class View {
     this._parentElement.innerHTML = '';
   }
 
-  renderSpinner = function () {
+  renderSpinner() {
     const markup = `
       <div class="spinner">
         <svg>
           <use href="${icons}#icon-loader"></use>
         </svg>
-      </div> 
+      </div>
       `;
     this._clear();
     this._parentElement.insertAdjacentHTML('afterbegin', markup);
-  };
+  }
 
   renderError(message = this._errorMessage) {
     const markup = `
